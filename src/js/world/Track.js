@@ -479,7 +479,7 @@ export default class Track {
                 billboardGroup.add(billboard);
                 
                 // Apply scale - adjust these values to change billboard size
-                billboard.scale.set(0.4, 0.4, 0.4);
+                billboard.scale.set(0.8, 0.8, 0.8);
                 
                 // Make the billboard face inward toward the track
                 // Apply the base angle plus any individual adjustment
